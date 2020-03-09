@@ -1,0 +1,16 @@
+
+Diagnosis of Cancer or non cancer patients dataset predict and building a model score value:-
+
+1.LogisticRegression: 
+Accuracy Score is: 0.99912538
+
+2.Random Forest:
+Accuracy Score is: 87.7192982
+
+3.Support Vector Machine(SVM):
+Accuracy Score is: 0.99889849
+
+4.Decision Tree
+Accuracy Score is: 0.96491228
+
+
