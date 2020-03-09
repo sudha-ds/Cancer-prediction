@@ -1,0 +1,23 @@
+To predict whether a patient is diagnosied with Cancer or Non Cancered,here used machine learning to Build a model and Analyse.
+
+Data Handling:-
+
+Importing Data with Pandas
+Cleaning Data,Data wrangling
+Exploring Data through Visualizations with Seaborn
+
+
+Mostly Used Python Libraries in Notebook:-
+
+Used pandas for data manipulation
+Used matplotlib and Seaborn for data visualization
+USed scikit-learn to build models 
+
+Data Analysis:-
+
+Supervised Machine learning Techniques:
+Logistic Regression Model
+Plotting results
+Support Vector Machine (SVM) using 3 kernels
+Basic Random Forest
+Plotting results
